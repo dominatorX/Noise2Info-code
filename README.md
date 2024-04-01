@@ -31,3 +31,13 @@ Similar implementation can be found in ``test.py``. Set the checkpoint, you can 
 python3 test.py
 ```
 for model testing and reproducing our results. 
+### To cite our paper
+```angular2html
+@inproceedings{wang2023noise2info,
+  title={Noise2Info: Noisy image to information of noise for self-supervised image denoising},
+  author={Wang, Jiachuan and Di, Shimin and Chen, Lei and Ng, Charles Wang Wai},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={16034--16043},
+  year={2023}
+}
+```
